@@ -1,0 +1,79 @@
+{
+  "id": "3953356",
+  "name": "20cs",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34768839",
+      "name": "学习-copy",
+      "font_class": "study-hover-copy",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "34768840",
+      "name": "消息-copy",
+      "font_class": "message-hover-copy",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "2154996",
+      "name": "播放器-播放（小电视）",
+      "font_class": "bailing",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "video",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "6263289",
+      "name": "电台直播",
+      "font_class": "diantai",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "10044406",
+      "name": "学习",
+      "font_class": "study",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "21243067",
+      "name": "消息",
+      "font_class": "message",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "34768832",
+      "name": "播放器-播放（小电视）-copy",
+      "font_class": "bailing-hover-copy",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "34768834",
+      "name": "播放-copy",
+      "font_class": "video-hover-copy",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "34768837",
+      "name": "电台直播-copy",
+      "font_class": "diantai-hover-copy",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    }
+  ]
+}

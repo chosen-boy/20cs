@@ -1,0 +1,57 @@
+{
+  "TopTabbar": {
+    "home": "新闻",
+    "bailing": "新闻",
+    "study": "二维码生成",
+    "video": "天气查询",
+    "diantai": "B站解析"
+
+  },
+
+
+" tabbarconfig":[
+{
+  "label":"新闻",
+  "name":"home",
+  "icon":"wap-home",
+  "class": "iconfont icon-message",
+  "path":"/"
+
+},
+{
+"label":"新闻",
+"name":"bailing",
+"icon":"music",
+
+  "class": "iconfont icon-diantai",
+"path":"/bailing"
+
+},
+{
+"label":"二维码生成",
+"name":"study",
+"icon":"youzan-shield",
+"class":"iconfont icon-study",
+"path":"/study"
+
+},
+{
+"label":"天气查询",
+"name":"video",
+"icon":"play-circle",
+  "class": "iconfont icon-video",
+"path":"/video"
+
+},
+  {
+    "label":"B站解析",
+    "name":"diantai",
+    "icon":"volume",
+    "class":"iconfont icon-bailing",
+    "path":"/diantai"
+
+  }
+
+]
+
+}
